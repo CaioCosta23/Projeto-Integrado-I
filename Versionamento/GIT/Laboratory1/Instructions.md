@@ -7,7 +7,7 @@ Neste roteiro, será criada uma chave SSH para acesso ao repositório remoto do 
 ## Passo à Passo :footprints:
 
 1. Caso ainda não possua, crie uma conta no [GitHub](https://github.com);
-2. Em um terminal, crie um par de chaves assimétricas (_public_key_, _private_key_) co o seguinte comando (criando uma senha para as chaves locais): `ssg-keygen -t ed25519 -c "exemplo@email.com.br"` (substitua o e-mail de exemplo pelo e-mail usado no GitHub);
+2. Em um terminal, crie um par de chaves assimétricas (_public_key_, _private_key_) com o seguinte comando (criando uma senha para as chaves locais): `ssg-keygen -t ed25519 -c "exemplo@email.com.br"` (substitua o e-mail de exemplo pelo e-mail usado no GitHub);
 3. Copie o conteúdo da chave pública que estará em `~/.ssh/id_ed25519.pub`;
 4. Abra o site de [configurações](https://github.com/settings/keys) ou clique no seu perfil > **settings**, **_SSH and GPG keys_**;
 5. Clique em **_New SSH key_** e cole o conteúdo da chave pública. Dê um nome à chave (Exemplo: LabGrad) e salve;
