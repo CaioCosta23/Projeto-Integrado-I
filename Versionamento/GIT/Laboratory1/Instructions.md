@@ -1,6 +1,8 @@
 # Laboratório 1 (GIT/GitHub) - Chaves SSH :old_key:
----
+
 Neste roteiro, será criada uma chave SSH para acesso ao repositório remoto do GitHub, através desse protocolo de transferência.
+
+---
 
 ## Passo à Passo :footprints:
 
