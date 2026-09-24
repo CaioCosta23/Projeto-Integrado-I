@@ -11,7 +11,7 @@ Neste roteiro, será simulado um desenvolvimento colaborativo de um projeto de s
 3. **DevB**, aceite o convite clicando no perfil e indo em **Organizations**;
 4. Clonem o repositório e suas máquinas locais;
 5. **DevA**, adicione um arquivo de testo qualquer no repositório e faça _add_ _commit_ e _push_;
-6. **DevB**, faça o _pull_, altere o arquivo e deposi, faça _add_ _commit_ e _push_
+6. **DevB**, faça o _pull_, altere o arquivo e depois, faça _add_ _commit_ e _push_
 7. **DevA** faça _pull_ para verificar a nova versão do arquivo (alterada pelo colega - **DevB**);
 8. Usem `git log --graph` para visualizar os _commits_ e identificar os _commits_ feitos por cada um;
 9. Façam alterações simultâneas no arquivo (em linhas diferentes). Em seguida, faça o _add_ e o _commit_;
