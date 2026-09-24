@@ -1,7 +1,7 @@
 # Laboratório 2 - Desenvolvimento Colaborativo :busts_in_silhouette:
 
-Neste roteiro, será simulado um desenvolvimento colaborativo de um projeto de software por uma equipe de ao menos duas pessoas desenvolvedoras,
-que chamaremos de **DevA** e **DevB**. No caso de mais pessoas na equipe, ajustar o roteiro.
+Neste roteiro, será simulado um desenvolvimento colaborativo de um projeto de software por uma equipe de ao menos duas pessoas desenvolvedoras, que chamaremos de **DevA** e **DevB**. No caso de mais pessoas na equipe, ajustar o roteiro.
+
 ---
 
 ## Passo à passo :footprints:
